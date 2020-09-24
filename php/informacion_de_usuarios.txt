@@ -1,0 +1,6 @@
+Usuarios:
+
+usuario="d81@mail.com clave=12345
+usuario="d82@mail.com clave=12345
+
+usuario="d83@mail.com  clave=12345

@@ -1,0 +1,17 @@
+﻿1. En node: (npm install)
+
+
+2. cmd: (mongod
+
+)
+3. cmd: (otro) (mongo)
+4. En node (node crea_usuario.js) 
+
+usuario:admin	
+password:clave
+
+
+5. En node (node server.js) corriendo en el puerto 3000
+
+
+6. En el navegador: (localhost:3000)
